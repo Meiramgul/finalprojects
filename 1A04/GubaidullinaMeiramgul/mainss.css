@@ -1,0 +1,131 @@
+body{
+background-image: url(fon7.png);
+    opacity: 20;
+}
+p{
+padding: 10px;
+text-align:justify;
+color: #fff;
+font-weight: bold;
+}
+.del{
+margin:10px 10px 0px 100px;
+width:1000px;
+border: 4px groove rgba(0, 0, 255, 0.46);
+font-weight:bolder;
+color: #3ef03e;
+}
+.diet{
+width: 1000px;   
+text-align: left;
+background-color:rgba(13, 13, 230, 0.42);
+border-style:ridge;
+border-color: #0099FF;
+margin:50px 0px 0px 100px;
+color:#0099FF;
+}
+#gen{
+width:1000px;
+background-color: rgba(46, 25, 206, 0.52);
+margin:10px 10px 0px 100px;
+}
+.drugs{
+width: 200px;
+height: 200px;
+border: 4px groove rgba(0, 0, 255, 0.46);
+margin-left: 20px;
+margin-top: 10px;
+border-radius: 20px;
+}
+#asd{
+//display: inline;
+margin-left: 30px;
+width: 1150px;
+}
+#ch{
+margin-left: 100px;
+    margin-top: 20pxş
+}
+#cnt{
+position:700px 0px;
+border-radius: 120px;
+height: 200px;
+width: 200px;
+}
+#leftside{
+float:left;
+}
+#rightside{
+float:right;
+margin-right:30px;
+}
+#login{
+margin-left: 30px;
+}
+#register{
+display:inline;
+margin-right:-5px;}
+#logo{
+width:150px;
+height:110px;
+margin-top:20px;
+display:inline;
+}
+img{
+position:inherit;}
+hr{
+border-style:double;
+border-width:2px;
+border-color:#0099FF;
+}
+#firstp{
+display: inline;
+float:right;
+color:#0033FF;
+margin-right:20px;
+}
+header{
+background-image: url("fon1.jpg");
+background-position: 240px -1000px;
+background-repeat: no-repeat;
+}
+#firstd{
+margin:10px 10px 0px 100px;
+width:1000px;
+}
+#firstt{
+text-align: center;
+background-color:rgba(241, 241, 242, 0.06);
+border-style:ridge;
+border-color: #0099FF;
+margin:50px 0px 0px 0px;
+border-collapse:collapse;
+color:#0099FF;
+}
+#drtest{
+text-decoration:none;
+font-weight:bolder;
+color:#0099FF;
+margin: 20px 20px 30px 30px;
+}
+#drugs{
+text-decoration:none;
+font-weight:bolder;
+color:#0099FF;
+margin: 20px 20px 30px 30px;
+}
+#bio{
+text-decoration:none;
+font-weight:bolder;
+color:#0099FF;
+margin: 20px 20px 30px 30px;
+}
+#mkup{
+text-decoration:none;
+font-weight:bolder;
+margin: 20px 20px 30px 30px;
+color:#0099FF;
+}
+.tds{
+width:370px;
+}
